@@ -1,0 +1,8 @@
+Fastfood [restuarantName=McDonalds  , foodName=Big Mac      , price=3.99, quanity=2]
+Fastfood [restuarantName=Burger King, foodName=Whopper      , price=3.43, quanity=1]
+Fastfood [restuarantName=Wendy's    , foodName=Single Cheese, price=2.99, quanity=4]
+Fastfood [restuarantName=chick-fil-a, foodName=Spicy Deluxe , price=2.49, quanity=2]
+Fastfood [restuarantName=Taco Bell, foodName=Five Layer Burrito, price=2.99, quanity=2]
+Fastfood [restuarantName=Checkers, foodName=Checkerburger, price=1.99, quanity=3]
+Fastfood [restuarantName=Charlie's, foodName=Philly Cheesesteak, price=5.99, quanity=1]
+Fastfood [restuarantName=PDQ, foodName=Chicken Tender Box, price=6.99, quanity=1]
